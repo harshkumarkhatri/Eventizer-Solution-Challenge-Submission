@@ -6,6 +6,9 @@ The app has two section:
  - Event Creators section: Through this section event creators will be able to list their events for the user and get registrations for their event along with getting a better reach for their event.
  - User section: Through this section, users will be able to register for all the events which are listed be different communities.
 
+## Video
+ - The video for the app could be watched here: https://www.youtube.com/watch?v=ec3v3fJN9f0
+
 Repository layout
  - [Built-App](https://github.com/harshkumarkhatri/Eventizer-Solution-Challenge-Submission/tree/master/Built-Apps)- You can find both the apps in this director
  - Event creators section
